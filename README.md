@@ -1,2 +1,3 @@
+LOCAL
 # ConflictExample
 This file edited recently...
