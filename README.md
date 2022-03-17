@@ -1,2 +1,3 @@
+REMOTE
 # ConflictExample
 This file edited recently...
